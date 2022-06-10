@@ -108,7 +108,7 @@
     "jest-esm-transformer": "^1.0.0",
     "markdown-toc": "^1.2.0",
     "rimraf": "^3.0.2",
-    "semantic-release": "^17.1.1"
+    "semantic-release": "^19.0.3"
   },
   "jest": {
     "transform": {
